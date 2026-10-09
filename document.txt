@@ -1,0 +1,3 @@
+Welcome to the text editor!
+This content was written using FileWriter.
+It reads characters directly using FileReader.
