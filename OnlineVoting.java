@@ -37,8 +37,6 @@ public class OnlineVoting {
 
         sc.close();
     }
-<<<<<<< HEAD
+
 }
-=======
 }
->>>>>>> 64547bd87bde526af4a2926900eb1795da7c6d12
